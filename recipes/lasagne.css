@@ -1,0 +1,28 @@
+/* lasagne.css */
+h1 {
+    font-family: "Garamond", serif;
+    font-size: 40px;
+    color: crimson;
+    background-color: bisque;
+    font-weight: 800;
+    }
+    
+h2 {    font-family: "Garamond", serif;
+    font-size: 40px;
+    color: crimson;
+    background-color: bisque;
+    font-weight: 800;}
+
+.subsection.list {
+    font-size: 20px;
+    color:black;
+    background-color: beige;
+    font-weight: 300;
+    }
+
+.header {
+    font-size: 30px;
+    color: blue;
+    background-color: beige;
+    font-weight: 200;
+    }
